@@ -1,0 +1,1 @@
+Linux palmirka-HP-Laptop-15s-eq0xxx 5.8.0-36-generic #40~20.04.1-Ubuntu SMP Wed Jan 6 10:15:55 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
